@@ -17,7 +17,7 @@ export function calculation(x: number, y: number): number {
 
 /*
 Problem 2: Print the Sum of a Current Number and a Previous number
-Write code to iterate through the first 10 numbers and, in each iteration, print the sum 
+Write code to iterate through the first 10 numbers and, in each iteration, return the sum 
 of the current and previous number.
 */
 export function getSumsFirst10(): number[] {
