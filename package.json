@@ -1,5 +1,12 @@
 {
+  "name": "typescript-react-practice",
+  "version": "1.0.0",
+"scripts": {
+  "test": "node ./node_modules/jest/bin/jest.js"
+},
   "devDependencies": {
-    "@types/jest": "^30.0.0"
+    "@types/jest": "file:...",
+    "jest": "file:...",
+    "ts-jest": "file:..."
   }
 }
