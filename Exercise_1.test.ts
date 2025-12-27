@@ -1,5 +1,4 @@
-import { calculation } from "./Exercise_1";
-import { getSumsFirst10 } from "./Exercise_1";
+import { calculation, getSumsFirst10 } from "./Exercise_1";
 
 describe("calculation", () => {
   test("returns product when product <= 1000", () => {
