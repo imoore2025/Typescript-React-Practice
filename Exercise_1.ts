@@ -42,6 +42,13 @@ index number.
 
 For example, str = "PYnative". so your code should display ‘P’, ‘n’, ‘t’, ‘v’.
 */
+export function getEvenIndexChars(input: string): string {
+    let newDisplay: string = '';
+    
+    return newDisplay;
+
+}
+    
 
 /*
 Problem  4: Remove first n characters from a string
