@@ -1,6 +1,7 @@
 {
   "name": "typescript-react-practice",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "test": "npx jest"
   },
