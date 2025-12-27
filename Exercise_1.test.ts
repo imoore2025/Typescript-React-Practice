@@ -1,4 +1,4 @@
-import { calculation, getSumsFirst10 } from "./Exercise_1";
+import { calculation, getSumsFirst10 } from "./Exercise_1.js";
 
 describe("calculation", () => {
   test("returns product when product <= 1000", () => {
